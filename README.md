@@ -1,11 +1,13 @@
 # BilimselHesapMakinesiscientificcalculator
  Bilimsel Hesap Makinesi (scientific calculator)
- Ekran Görüntüleri
- Giriş
+ /n
+ Ekran Görüntüleri/n
+ Giriş/n
  
 ![resim](https://github.com/yunusemreayar/BilimselHesapMakinesiscientificcalculator/blob/main/image/giriş.PNG)
-
-İşlem yapılması;
+/n
+İşlem yapılması;/n
 ![resim](https://github.com/yunusemreayar/BilimselHesapMakinesiscientificcalculator/blob/main/image/işlem.PNG)
-Yapılan işlemin sonuçu;
+/n
+Yapılan işlemin sonuçu;/n
 ![resim](https://github.com/yunusemreayar/BilimselHesapMakinesiscientificcalculator/blob/main/image/sonuç.PNG)
